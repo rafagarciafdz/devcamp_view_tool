@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "devcamp_view_tool/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "devcamp_view_tool"
+  spec.name          = "devcamp_view_tool_raf"
   spec.version       = DevcampViewTool::VERSION
   spec.authors       = ["Rafael Garcia"]
   spec.email         = ["rafa@wow.com"]
